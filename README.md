@@ -81,7 +81,7 @@ A clean dataset of significant solar flares is generated, enabling further analy
 * Filter: GOES class > M1.0
 
 🔗 Reference:
-https://docs.sunpy.org/en/stable/guide/acquiring_data/hek.html
+https://docs.sunpy.org/en/stable/
 
 ---
 
@@ -121,7 +121,7 @@ This analysis helps identify **active regions on the Sun**, which are often link
 * Accessed via: `sunpy.data.sample.AIA_193_IMAGE`
 
 🔗 Reference:
-https://docs.sunpy.org/en/stable/generated/gallery/map/map_example.html
+https://docs.sunpy.org/en/stable/
 
 ---
 
