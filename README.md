@@ -69,7 +69,7 @@ This section focuses on querying and analyzing **solar flare events** using SunP
 A clean dataset of significant solar flares is generated, enabling further analysis of **solar activity patterns**.
 
 👉 **Run Notebook:**
-[Open Part 1 Notebook](./Notebooks/A5P1.ipynb)
+[Open Part 1 Notebook](./Notebooks/A5Q1.ipynb)
 
 ---
 
@@ -110,7 +110,7 @@ This section involves analyzing solar images to identify regions of maximum inte
 This analysis helps identify **active regions on the Sun**, which are often linked to solar flares and magnetic activity.
 
 👉 **Run Notebook:**
-[Open Part 2 Notebook](./Notebooks/A5P2.ipynb)
+[Open Part 2 Notebook](./Notebooks/A5Q2.ipynb)
 
 ---
 
