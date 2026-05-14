@@ -33,8 +33,9 @@ The assignment is divided into two main parts inspired by standard SunPy case st
  ┣ 📂 Notebooks
  ┃ ┣ 📓 A5P1.ipynb
  ┃ ┗ 📓 A5P2.ipynb
+ ┣ 📜 requirements.txt
 ```
-
+> *Run command [pip install -r requirements.txt] before executing any notebook*
 ---
 
 ## 🌋 Part 1: Solar Flare Event Analysis (GOES Data)
